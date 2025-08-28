@@ -79,6 +79,9 @@ If it is an object, name its class.
 
 36a.Can an object have several classes? Discuss.
 
-36b.
+36b.No, an object cannot have several classes. Because classes can have multiple
+, not the other way around. A class can invoke another class but an object only belongs
+to a single class since that single class defines the object with its fields, parameters
+required and methods/functions tied to said object.
 
 
