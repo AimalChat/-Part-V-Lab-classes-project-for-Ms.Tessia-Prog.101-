@@ -54,7 +54,7 @@ did not work.
  -1 : int (integer)
  true : boolean
  “33” : return result
- 3.1415 decimal numbers
+ 3.1415 : decimal numbers
  
 32a.What would you have to do to add a new field, for example one 
 called name, to a circle object?
