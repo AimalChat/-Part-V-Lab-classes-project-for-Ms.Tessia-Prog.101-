@@ -56,5 +56,29 @@ did not work.
  “33” : return result
  3.1415 decimal numbers
  
-32a
+32a.What would you have to do to add a new field, for example one 
+called name, to a circle object?
+
+32b.Id have to code it into its class first, since fields are defined by
+the class and not the object.
+
+33a.Write the header for a method named send that has one parameter of 
+type String, and does not return a value
+
+33b.void send(String fullName)
+
+34a.Write the header for a method named average that has two parameters, 
+both of type int, and returns an int value.
+
+34b.int average(int number1, int number2)
+
+35a.Look at the book you are reading now. Is it an object or a class? If it is a class, name some objects.
+If it is an object, name its class.
+
+35b.Its an object since it is a specific instance of the class, book.
+
+36a.Can an object have several classes? Discuss.
+
+36b.
+
 
