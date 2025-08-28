@@ -45,3 +45,16 @@ did not work.
 
 24b.It displays the number of students as "0".
 
+31a.What are the types of the following values?
+
+31b.
+ 0 : int (integer)
+ “hello” : String
+ 101 : int (integer)
+ -1 : int (integer)
+ true : boolean
+ “33” : return result
+ 3.1415 decimal numbers
+ 
+32a
+
